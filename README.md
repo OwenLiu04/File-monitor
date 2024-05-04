@@ -1,6 +1,6 @@
 # File Monitor
 
-File Monitor is a Python script that automates the monitoring of file modification dates at user-defined intervals. If any file is detected as modified, the script automatically opens it using Microsoft PowerPoint. This tool is ideal for tracking updates in presentation files during collaborative work or frequent revisions.
+File Monitor is a Python script that automates the monitoring of file modification dates at user-defined intervals. If any file is detected as modified, the script automatically opens it using Microsoft PowerPoint. This tool is ideal for tracking updates in presentation files during collaborative work or frequent revisions. This project is licensed under the GNU General Public License v3 (GPLv3).
 
 ## Features
 
@@ -22,9 +22,6 @@ Before running the script, you need to configure the scirpt by specifying:
 
 ## Usage
 Simply run the script. It will open a window that displays the status of the monitored files.
-
-## License
-This project is licensed under the GNU General Public License v3 (GPLv3). For more details, see the LICENSE file.
 
 ## Contribution and Maintenance
 For issues and support, please contact the maintainers via email at 69543538@qq.com or open an issue in this repository.
